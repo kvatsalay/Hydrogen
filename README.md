@@ -8,5 +8,6 @@
 
 ![Screenshot](my.png)
 
-*Hydrogen* is in its alpha testing*
+**Usage**
 
+Hydrogen takes just one positional argument: Web. The website you want to check the availibility for. Right now Hydrogen is in its developement stage.  
