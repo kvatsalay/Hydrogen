@@ -3,5 +3,5 @@
 
 <p align="center">
   <h1 align="center">Hydrogen</h1><br>
-  <b align="center">An Open Source Command Line Application for Site Checking</b>
+  <h3>An Open Source Command Line Application for Site Checking</h3>
 </p>
